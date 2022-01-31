@@ -1,5 +1,5 @@
 # Welcome!
-- 👋 Hi, I’m @ags911
+- 👋 Hi, I’m Darren @ags911
 - 👀 I’m interested in Football, Gaming, Music, Aviation and Data Science.
 - 🌱 I’m currently learning how to fly.
 - 💞️ I’m looking to collaborate on interesting Data Science and other coding projects.
