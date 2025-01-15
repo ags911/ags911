@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/ags911/udacity-dsnd/blob/main/project-1"><img align="left" width="250" height="150" img src="https://github.com/ags911/udacity-dsnd/blob/main/project-1/images/apartments-for-rent-in-boston.jpg"><a/>
 **[Project 1: Write A Data Science Blog Post](https://github.com/ags911/udacity-dsnd/blob/main/project-1)**
 
-Airbnb empowers homeowners to earn income by renting out their properties or spare rooms. This has spurred a growing trend of investors acquiring properties specifically for Airbnb rentals. However, success in this venture hinges on understanding key factors that attract guests. These include location, amenities, unique features, competitive pricing, and effective marketing strategies. By carefully considering these factors, Airbnb hosts can optimize their properties to maximize guest satisfaction and profitability.
+Airbnb empowers homeowners to earn income by renting out properties or spare rooms. This has spurred a growing trend of investors acquiring properties specifically for Airbnb rentals. To succeed, it's crucial to understand factors that attract guests, such as location, amenities, unique features, competitive pricing, and effective marketing strategies. By carefully considering these aspects, Airbnb hosts can optimize their properties to maximize guest satisfaction and profitability.
 
 <br>
 
