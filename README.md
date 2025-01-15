@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ## Data Scientist Projects
 
 <!-- Project 1 -->
-<a href="https://github.com/ags911/udacity-dsnd/blob/main/project-1"><img align="left" width="250" height="150" img src="https://github.com/ags911/udacity-dsnd/blob/main/project-1/images/apartments-for-rent-in-boston.jpg"><a/> 
+<a href="https://github.com/ags911/udacity-dsnd/blob/main/project-1"><img align="left" width="250" height="150" img src="https://github.com/ags911/udacity-dsnd/blob/main/project-1/images/apartments-for-rent-in-boston.jpg"><a/>
 **[Project 1: Write A Data Science Blog Post](https://github.com/ags911/udacity-dsnd/blob/main/project-1)**
 
 Airbnb is a popular way for home owners to make money by renting out their properties or even spare rooms in their own home.
