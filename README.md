@@ -3,7 +3,7 @@
 - 👀 I’m interested in Football, Gaming, Music, Aviation and Data Science.
 - 🌱 I’m currently learning how to fly.
 - 💞️ I’m looking to collaborate on interesting Data Science and other coding projects.
-- 📫 How to reach me... you can reach me on LinkedIn https://www.linkedin.com/in/darren-gidado/
+- 📫 How to reach me... https://www.linkedin.com/in/darren-gidado/
 - 🌍 Check out my blog / portfolio here... https://darrengidado.com/
 
 <!---
