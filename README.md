@@ -75,6 +75,7 @@ In this project, we will choose one of Udacity’s curated datasets and investig
 In this project, we will be provided a dataset reflecting data collected from an landing page experiment. We’ll use statistical techniques to answer questions about the data and report our conclusions and recommendations in a report. We will also use machine learning and logistic regression to predict how various factors might affect conversions depending on the landing page.
 
 <br>
+<br>
 
 <!-- Project 3 -->
 
@@ -83,6 +84,7 @@ In this project, we will be provided a dataset reflecting data collected from an
 
 Real-world data rarely comes clean. Using Python, we’ll gather data from a variety of sources, assess its quality and tidiness, then clean it. We will document our wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python and SQL.
 
+<br>
 <br>
 
 <!-- Project 4 -->
