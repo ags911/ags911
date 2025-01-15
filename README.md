@@ -19,9 +19,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/ags911/udacity-dsnd/blob/main/project-1"><img align="left" width="250" height="150" img src="https://github.com/ags911/udacity-dsnd/blob/main/project-1/images/apartments-for-rent-in-boston.jpg"><a/> 
 **[Project 1: Write A Data Science Blog Post](https://github.com/ags911/udacity-dsnd/blob/main/project-1)**
 
-Airbnb is a popular way for home owners to make money by renting out their properties or even spare rooms in their own home. 
-More people are considering joining Airbnb to profit by investing in new properties to transform into Airbnbs. 
-But how will they know what to consider to make their property an attractive proposition for customers? And how will they increase profit?
+Airbnb lets homeowners earn by renting out spaces. Many are investing in properties to become Airbnb hosts. But how can they ensure their property is attractive to guests and maximize profits?
 
 <!-- Project 2 -->
 <a href="https://github.com/ags911/udacity-dsnd/tree/main/project-2"><img align="left" width="250" height="150" img src="https://github.com/ags911/udacity-dsnd/blob/main/project-2/images/aid.jpg"><a/>
