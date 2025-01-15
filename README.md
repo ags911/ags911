@@ -69,7 +69,6 @@ In this project, we will choose one of Udacity’s curated datasets and investig
 
 <br>
 <br>
-<br>
 
 <!-- Project 2 -->
 <a href="https://github.com/ags911/udacity-dand/tree/main/project-2"><img align="left" width="250" height="150" img src="https://github.com/ags911/udacity-dand/blob/main/images/output_6_0.png"><a/>
