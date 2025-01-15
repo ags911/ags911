@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 Airbnb lets homeowners earn by renting out spaces. Many are investing in properties to become Airbnb hosts. But how can they ensure their property is attractive to guests and maximize profits?
 
+<br>
+
 <!-- Project 2 -->
 <a href="https://github.com/ags911/udacity-dsnd/tree/main/project-2"><img align="left" width="250" height="150" img src="https://github.com/ags911/udacity-dsnd/blob/main/project-2/images/aid.jpg"><a/>
 
