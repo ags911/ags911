@@ -11,8 +11,8 @@ ags911/ags911 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-# Portfolio
-
+# Portfolio 
+<!-- NOTE: Limit description text to 250 CHARS -->
 ## Data Scientist Projects
 
 <!-- Project 1 -->
@@ -28,7 +28,9 @@ Airbnb allows homeowners to earn by renting out their properties or spare rooms.
 
 **[Project 2:  Disaster Response Pipeline Project](https://github.com/ags911/udacity-dsnd/tree/main/project-2)**
 
-In this project, we used data engineering skills to analyze disaster data from Figure Eight. This data was used to build a model for an API that classifies disaster messages. A machine learning pipeline was created to categorize these events so that the messages could be sent to an appropriate disaster relief agency. This project also includes an interactive web app.
+This project leverages data engineering to analyze disaster data from Figure Eight. We built an API model to classify disaster messages using machine learning. The model categorizes events to direct messages to relevant relief agencies. An interactive web app is also included.
+
+<br>
 
 <!-- Project 3 -->
 <a href="https://github.com/ags911/udacity-dsnd/tree/main/project-3"><img align="left" width="250" height="150" img src="https://github.com/ags911/udacity-dsnd/blob/main/project-3/images/ibm_logo_2400x1440.jpg"><a/>
