@@ -59,6 +59,7 @@ This project uses simulated data to provide insight to how people make purchasin
 The Exploring Weather Trends project will demonstrate using SQL and downloading data from a database. We will analyze local and global temperature data and compare the temperature trends where we live to overall global temperature trends.
 
 <br>
+<br>
 
 <!-- Project 1 -->
 <a href="https://github.com/ags911/udacity-dand/tree/main/project-1"><img align="left" width="250" height="150" img src="https://github.com/ags911/udacity-dand/blob/main/images/output_4_0.png"><a/>
@@ -66,6 +67,7 @@ The Exploring Weather Trends project will demonstrate using SQL and downloading 
 
 In this project, we will choose one of Udacity’s curated datasets and investigate it using NumPy and pandas. We will complete the entire data analysis process, starting by posing a question and finishing by sharing your findings.
 
+<br>
 <br>
 
 <!-- Project 2 -->
@@ -75,7 +77,6 @@ In this project, we will choose one of Udacity’s curated datasets and investig
 In this project, we will be provided a dataset reflecting data collected from an landing page experiment. We’ll use statistical techniques to answer questions about the data and report our conclusions and recommendations in a report. We will also use machine learning and logistic regression to predict how various factors might affect conversions depending on the landing page.
 
 <br>
-<br>
 
 <!-- Project 3 -->
 
@@ -84,7 +85,6 @@ In this project, we will be provided a dataset reflecting data collected from an
 
 Real-world data rarely comes clean. Using Python, we’ll gather data from a variety of sources, assess its quality and tidiness, then clean it. We will document our wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python and SQL.
 
-<br>
 <br>
 
 <!-- Project 4 -->
