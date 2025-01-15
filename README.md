@@ -73,7 +73,7 @@ This approach showcases our ability to handle, analyze, and interpret data, and 
 <a href="https://github.com/ags911/udacity-dand/tree/main/project-2"><img align="left" width="250" height="150" img src="https://github.com/ags911/udacity-dand/blob/main/images/output_6_0.png"><a/>
 **[Project 2: Analyze Experiment Results](https://github.com/ags911/udacity-dand/blob/main/Project%202%20-%20Analyse%20AB%20Test%20Results/Project%202%20-%20Analyze%20AB%20Test%20Results.ipynb)**
 
-"In this project, we’ll analyze a dataset from a landing page experiment. We’ll use statistical techniques to answer key questions and report our conclusions. 
+In this project, we’ll analyze a dataset from a landing page experiment. We’ll use statistical techniques to answer key questions and report our conclusions. 
 Additionally, we will employ machine learning and logistic regression to predict how various factors impact conversions based on the landing page.
 
 <br>
@@ -93,5 +93,5 @@ Additionally, we will showcase our work through analyses and visualizations usin
 <a href="https://github.com/ags911/udacity-dand/tree/main/project-4"><img align="left" width="250" height="150" img src="https://github.com/ags911/udacity-dand/blob/main/images/output_10_0.png"><a/>
 **[Project 4: The Truth About Airline Statistics](https://github.com/ags911/udacity-dand/blob/main/Project%204%20-%20Communicate%20Data%20Findings/communicate_data_findings.ipynb)**
 
-This dataset reports flights in the United States from 1987 to 2008 including arrival and departure delays, carriers, and other data. For our analysis, we are sampling the three year period between 89' to 91' as our sample dataset as 
+This dataset reports flights in the United States from 1987 to 2008 including arrival and departure delays, carriers, and other data. We will be sampling the three year period between 89' to 91' as 
 the whole dataset is too large to practically observe with Jupyter. Findings will be visualised in univariate, bivariate and, multivariate plots.
