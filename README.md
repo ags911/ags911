@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 Airbnb is a popular way for home owners to make money by renting out their properties or even spare rooms in their own home. 
 More people are considering joining Airbnb to profit by investing in new properties to transform into Airbnbs. 
 But how will they know what to consider to make their property an attractive proposition for customers? And how will they increase profit?
+
 <br>
 
 <!-- Project 2 -->
@@ -30,6 +31,7 @@ But how will they know what to consider to make their property an attractive pro
 **[Project 2:  Disaster Response Pipeline Project](https://github.com/ags911/udacity-dsnd/tree/main/project-2)**
 
 In this project, we used data engineering skills to analyze disaster data from Figure Eight. This data was used to build a model for an API that classifies disaster messages. A machine learning pipeline was created to categorize these events so that the messages could be sent to an appropriate disaster relief agency. This project also includes an interactive web app.
+
 <br>
 
 <!-- Project 3 -->
@@ -37,6 +39,7 @@ In this project, we used data engineering skills to analyze disaster data from F
 **[Project 3:  IBM Recomendation Engine Project](https://github.com/ags911/udacity-dsnd/tree/main/project-3)**
 
 In this project, we used data engineering skills to analyze disaster data from Figure Eight. This data was used to build a model for an API that classifies disaster messages. A machine learning pipeline was created to categorize these events so that the messages could be sent to an appropriate disaster relief agency. This project also includes an interactive web app.
+
 <br>
 
 <!-- Project 4 -->
@@ -44,6 +47,7 @@ In this project, we used data engineering skills to analyze disaster data from F
 **[Project 4:  Starbucks Capstone Project](https://github.com/ags911/udacity-dsnd/tree/main/project-4)**
 
 This project uses simulated data to provide insight to how people make purchasing decisions, and how those decisions are influenced by promotional offers. The data contains various events, including receiving offers, opening offers, and making purchases. Our task is to identify which groups of people are most responsive to each type of offer by finding traits and purchasing patterns.
+
 <br>
 
 ## Data Analyst Projects
