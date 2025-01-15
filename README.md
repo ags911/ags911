@@ -28,7 +28,7 @@ Airbnb empowers homeowners, driving a surge in investors acquiring properties sp
 
 **[Project 2:  Disaster Response Pipeline Project](https://github.com/ags911/udacity-dsnd/tree/main/project-2)**
 
-This project analyzed Figure Eight disaster data and built an ML model for an API to classify disaster messages. The model directs messages to relevant relief agencies, ensuring optimal response coordination. Facilitated by an interactive web app, it makes the process efficient, user-friendly, and quick.
+"This project analyzed Figure Eight disaster data and built an ML model for an API to classify disaster messages. The model directs messages to relevant relief agencies, ensuring optimal response coordination. Facilitated by an interactive web app, it makes the process efficient, user-friendly, and quick. This tool aims to significantly enhance disaster response efforts through timely and accurate message classification.
 <br>
 
 <!-- Project 3 -->
