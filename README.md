@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Portfolio 
-<!-- NOTE: Limit description text to 250 CHARS -->
+<!-- NOTE: Limit description text to 240 CHARS -->
 ## Data Scientist Projects
 
 <!-- Project 1 -->
@@ -28,8 +28,7 @@ Airbnb empowers homeowners, driving a surge in investors acquiring properties sp
 
 **[Project 2:  Disaster Response Pipeline Project](https://github.com/ags911/udacity-dsnd/tree/main/project-2)**
 
-This project leverages data engineering to analyze disaster data from Figure Eight. We built an API model to classify disaster messages using machine learning. The model categorizes events to direct messages to relevant relief agencies. An interactive web app is also included.
-
+This project analyzed Figure Eight disaster data and built an ML model for an API to classify disaster messages. The model directs messages to relevant relief agencies, ensuring optimal response coordination. Facilitated by an interactive web app, it makes the process efficient, user-friendly, and quick.
 <br>
 
 <!-- Project 3 -->
