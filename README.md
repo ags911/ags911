@@ -55,7 +55,8 @@ This project uses simulated data to provide insight to how people make purchasin
 <a href="https://github.com/ags911/udacity-dand/tree/main/project-0"><img align="left" width="250" height="150" img src="https://github.com/ags911/udacity-dand/blob/main/images/output_2_0.png"><a/>
 **[Intro Project: Explore Weather Trends](https://github.com/ags911/udacity-dand/blob/main/Project%200%20-%20Explore%20Weather%20Trends/Project%200%20-%20Exploring%20Weather%20Trends.ipynb)**
 
-The Exploring Weather Trends project will demonstrate using SQL and downloading data from a database. We will analyze local and global temperature data and compare the temperature trends where we live to overall global temperature trends.
+The Exploring Weather Trends project demonstrates using SQL to download and analyze data from a database. We will compare local and global temperature trends by analyzing this data, showcasing our ability to manage and interpret large datasets. 
+This project aims to uncover significant patterns and differences in temperature changes.
 
 <br>
 
@@ -65,7 +66,7 @@ The Exploring Weather Trends project will demonstrate using SQL and downloading 
 
 In this project, we will choose one of Udacity’s curated datasets and investigate it using NumPy and pandas. We will complete the entire data analysis process, starting by posing a question and finishing by sharing your findings.
 
-<br><br>
+<br>
 
 <!-- Project 2 -->
 <a href="https://github.com/ags911/udacity-dand/tree/main/project-2"><img align="left" width="250" height="150" img src="https://github.com/ags911/udacity-dand/blob/main/images/output_6_0.png"><a/>
