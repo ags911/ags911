@@ -25,7 +25,6 @@ Airbnb empowers homeowners, driving a surge in investors acquiring properties sp
 
 <!-- Project 2 -->
 <a href="https://github.com/ags911/udacity-dsnd/tree/main/project-2"><img align="left" width="250" height="150" img src="https://github.com/ags911/udacity-dsnd/blob/main/project-2/images/aid.jpg"><a/>
-
 **[Project 2:  Disaster Response Pipeline Project](https://github.com/ags911/udacity-dsnd/tree/main/project-2)**
 
 This project analyzed disaster data from Figure Eight using data engineering skills to build a Machine Learning pipeline to categorize these events so that the messages could be sent to an appropriate disaster relief agency.
