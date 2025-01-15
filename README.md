@@ -78,6 +78,7 @@ In this project, we will be provided a dataset reflecting data collected from an
 **[Project 3: We Rate Dogs Twitter Analysis](https://github.com/ags911/udacity-dand/blob/main/Project%203%20-%20Wrangle%20and%20Analyse%20Data/ipynb_files/act_report.ipynb)**
 
 Real-world data rarely comes clean. Using Python, we’ll gather data from a variety of sources, assess its quality and tidiness, then clean it. We will document our wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python and SQL.
+
 <br></br>
 
 <!-- Project 4 -->
